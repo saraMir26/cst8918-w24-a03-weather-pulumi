@@ -1,0 +1,5 @@
+node_modules
+.git
+.pulumi
+infrastructure/node_modules
+infrastructure/.pulumi
